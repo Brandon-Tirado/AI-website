@@ -14,7 +14,7 @@ It visualizes risk levels using a topographic grid, with overlays for low, mediu
 2. Click “Randomize Risk” to generate new predictions
 3. Click on any grid cell to see detailed feature-based explanations
 
-### 🌍 Live Demo (after GitHub Pages is enabled)
+### 🌍 Live Demo
 > [https://Brandon-Tirado.github.io/reland-demo-risk-map](https://Brandon-Tirado.github.io/reland-demo-risk-map)
 
 ---
