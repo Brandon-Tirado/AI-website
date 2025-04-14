@@ -15,7 +15,7 @@ It visualizes risk levels using a topographic grid, with overlays for low, mediu
 3. Click on any grid cell to see detailed feature-based explanations
 
 ### 🌍 Live Demo (after GitHub Pages is enabled)
-> [https://yourusername.github.io/reland-demo-risk-map](https://yourusername.github.io/reland-demo-risk-map)
+> [https://Brandon-Tirado.github.io/reland-demo-risk-map](https://Brandon-Tirado.github.io/reland-demo-risk-map)
 
 ---
 
